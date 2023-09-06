@@ -1,0 +1,24 @@
+{
+	"manifest_version": 2,
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "thundnerbird@jens.ninja",
+			"strict_min_version": "60.0"
+		}
+	},
+	"name": "Jens Theme",
+	"description": "Just a test theme.",
+	"icons": {
+		"16": "icon16.png"
+	},
+	"version": "1.0.0",
+	"theme": {
+		"images": {
+			"theme_frame": "back.png"
+		},
+		"colors": {
+			"frame": "#000000",
+			"tab_background_text": "#ffffff"
+		}
+	}
+}
