@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "thundnerbird@jens.ninja",
+			"id": "thunderbird@jens.ninja",
 			"strict_min_version": "60.0"
 		}
 	},
